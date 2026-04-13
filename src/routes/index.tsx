@@ -1,4 +1,3 @@
-import { Header } from '#/components/page/commons/header'
 import { WelcomeMobile } from '#/components/page/mobile/welcome-mobile'
 import { createFileRoute } from '@tanstack/react-router'
 
