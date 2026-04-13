@@ -7,7 +7,6 @@ export const Route = createFileRoute('/')({ component: App })
 function App() {
   return (
     <main className='flex flex-col min-h-screen'>
-      <Header />
       <WelcomeMobile />
     </main>
   )
